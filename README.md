@@ -1,4 +1,4 @@
-# DMoney-Testing
+# DMoney-API-Testing
 
 ## Project Summery
 This project is automate user API from postman using newman
